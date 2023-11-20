@@ -1,4 +1,4 @@
-# jvs-sdw（自助式数据分析平台-数据智仓）
+# jvs-BI（自助式数据分析平台-智能BI）
 
 #### 介绍
 数据智仓英文名称为Smart Data Warehouse，可简写为SDW。数据智仓是JVS整体企业数字化解决方案的核心能力，与JVS的低代码开发套件平级，如下图所示：
@@ -74,7 +74,8 @@ ETL是将业务系统的数据经过抽取、清洗转换之后加载到数据�
 
 ### 技术交流与商务支持
 
-![群二维码](https://github.com/RKQF-JVS/jvs-bi/assets/94048608/ab3a5bd1-a50c-498f-9ab5-b97fd76898ee)
+![群二维码](https://github.com/RKQF-JVS/jvs-bi/assets/94048608/a268f8b3-8df0-4240-988d-65dd1a021c46)
+
 
 
 
