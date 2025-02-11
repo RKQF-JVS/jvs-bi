@@ -28,6 +28,7 @@
 - 规则引擎：http://rules.bctools.cn/
 - 逻辑引擎：http://logic.bctools.cn/
 - 视频会议：http://meeting.bctools.cn/
+- APS（智能排产）：https://aps.bctools.cn/
 
 
 #### 重点功能截图
@@ -74,7 +75,8 @@ ETL是将业务系统的数据经过抽取、清洗转换之后加载到数据�
 
 ### 技术交流与商务支持
 
-![群二维码](https://github.com/RKQF-JVS/jvs-bi/assets/94048608/cb9808dd-e9eb-4f91-a9a8-997f9ac0ed95)
+![微信图片_20250211100806](https://github.com/user-attachments/assets/b35a3216-57b7-4c5f-a8d8-8aa8f07749bd)
+
 
 
 
