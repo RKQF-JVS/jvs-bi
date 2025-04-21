@@ -75,7 +75,8 @@ ETL是将业务系统的数据经过抽取、清洗转换之后加载到数据�
 
 ### 技术交流与商务支持
 
-![微信图片_20250414104956](https://github.com/user-attachments/assets/a9dfdc5f-bc1f-43e0-8212-db4e6a7b0c9c)
+![微信图片_20250421154028](https://github.com/user-attachments/assets/615bf01a-bacb-4f5a-89c1-49ce00c72344)
+
 
 
 
